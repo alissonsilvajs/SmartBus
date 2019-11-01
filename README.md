@@ -14,6 +14,7 @@ Quando o passageiro entra no onibus ou sai, o sistema numera no banco de dados. 
   When the TCRT5000 identify has passenger in the door, open automatically the door and remove - 1 in the database.
   The Display is used to show the how many passenger has in bus.
   
+### Como ele funciona?
   Quando o sensor RFID identifica um cartão de passagem, adiciona mais 1 no banco de dados. Se atingir o limite de passageiros no onibus, não permite o passageiro entrar no onibus.
   Quando o TCRT5000 identifica que tem um passageiro na porta, abre a porta automaticamente e remove - 1 no banco de dados.
   O display é utilizado para mostrar a quantidade de passageiros que tem no onibus.
@@ -29,14 +30,14 @@ Quando o passageiro entra no onibus ou sai, o sistema numera no banco de dados. 
    
 - 1x - Arduino Mega<br>
 - 1x - RFID RC522<br>
-- 1x - Display 7 Segment 4 Digit TM1673<br>
+- 1x - Display de 7 segmentos e 4 digitos TM1673<br>
 - 1x - TCRT5000<br>
 
 ## Credits
 
 - [Alisson Silva](https://github.com/alissonsilvajs)
 - [Ana Maria](https://github.com/)
-- [Alef Marinho]
-- [Ester Guimarães]
-- [Maria das Graças]
-- [Pedro]
+- Alef Marinho
+- Ester Guimarães
+- Maria das Graças
+- Pedro
