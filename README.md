@@ -36,7 +36,7 @@ Quando o passageiro entra no onibus ou sai, o sistema numera no banco de dados. 
 ## Credits
 
 - [Alisson Silva](https://github.com/alissonsilvajs)
-- [Ana Maria](https://github.com/)
+- [Ana Maria](https://github.com/anaaquinosantos)
 - Alef Marinho
 - Ester Guimarães
 - Maria das Graças
