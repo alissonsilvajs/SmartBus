@@ -40,4 +40,4 @@ Quando o passageiro entra no onibus ou sai, o sistema numera no banco de dados. 
 - Alef Marinho
 - Ester Guimarães
 - Maria das Graças
-- Pedro
+- [João Pedro](https://github.com/GuGu67)
